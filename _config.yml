@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: http://taylantatli.github.io/Halve
+title: DreamingSpes
+description: Portfolio Site
+url: http://DreamingSpes.com
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -29,18 +29,18 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+email:              dreamingspes@gmail.com
+google.plus:        dreamignspes@gmail.com
+#twitter:            
+#facebook:           
+github:             dreamignspes@gmail.com
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-#instagram:          username
+instagram:          dreamingspes
 #lastfm:            username
 #tumblr:            username
-#pinterest:         username
+pinterest:          dreamingspes
 #foursquare:        username
 #steam:              username
 #dribbble:          username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
